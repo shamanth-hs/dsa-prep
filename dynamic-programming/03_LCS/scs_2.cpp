@@ -1,3 +1,6 @@
+#include<stdio.h>
+#include<string.h>
+
 class Solution {
 public:
     string LCS(string &s1, string &s2) {
