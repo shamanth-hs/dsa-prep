@@ -1,4 +1,9 @@
 ### Problem Solving Preparation 
+
+Prepare by pattern: [Java DSA study guides](dsa-patterns/README.md). Reference: [Java cheatsheet](dsa-patterns/JAVA_CHEATSHEET.md). Track your work in the [progress tracker](dsa-patterns/TRACKER.md).
+
+System design: [4-week Android App + Platform preparation plan](system_design/README.md).
+
 <hr/>
 
 I am looking for a job, and here I am preparing DSA again. 
@@ -41,5 +46,10 @@ Since there is a high chance of Dynamic Programming question for sure, I started
 
 [CSES Problem Set](https://cses.fi/problemset/)
 
-<hr/># dsa-prep
-# dsa-prep
+<hr/>
+
+
+## Repository references
+
+- [Pattern-based DSA preparation in Java](dsa-patterns/README.md)
+- [Verification findings and known code defects](REVIEW.md)

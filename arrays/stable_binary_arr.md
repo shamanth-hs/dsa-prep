@@ -72,3 +72,7 @@ graph TD
 *   **Overall Logic:** The overall logic of the program appears to be incorrect for solving the problem of counting stable binary arrays in the typical sense (with a limit on consecutive elements). The recursive structure is flawed.
 
 This documentation describes the code as written. For a correct implementation of counting stable arrays, the algorithm would need to be significantly different, likely using dynamic programming or a corrected recursive approach that properly manages state (like current number of zeros/ones, and the count of the last consecutive character).
+
+### Required stability constraint and concrete failure
+
+A stable binary array contains exactly the requested counts and no run of equal bits longer than `limit`. The current source does not enforce that condition. Its hardcoded input (2, 1, 3) returns 1 instead of 3 (001, 010, 100). Also, the size < 0 base case does not guard the write to arr[size−1] when size == 0. The flowchart above describes the flawed source, not a correct solution.

@@ -1,0 +1,953 @@
+{
+  "version": 1,
+  "profile": {
+    "username": "shamanthhs494",
+    "url": "https://leetcode.com/u/shamanthhs494/"
+  },
+  "timezone": "Asia/Kolkata",
+  "study_order": [
+    "20",
+    "01",
+    "02",
+    "03",
+    "04",
+    "05",
+    "07",
+    "08",
+    "09",
+    "10",
+    "11",
+    "15",
+    "12",
+    "13",
+    "14",
+    "16",
+    "06",
+    "17",
+    "18",
+    "19"
+  ],
+  "sync": {
+    "status": "public_snapshot",
+    "last_attempt": "2026-11-10T21:54:47+05:30",
+    "last_success": "2026-11-10T21:54:47+05:30",
+    "error": null,
+    "statistics": {
+      "All": 121,
+      "Easy": 84,
+      "Medium": 32,
+      "Hard": 5
+    },
+    "recent_accepted": [
+      {
+        "id": "2170038064",
+        "title": "Minimum Queen Moves to Reach Target",
+        "slug": "minimum-queen-moves-to-reach-target",
+        "date": "2026-10-12"
+      },
+      {
+        "id": "2170027957",
+        "title": "N-Queens II",
+        "slug": "n-queens-ii",
+        "date": "2026-10-12"
+      },
+      {
+        "id": "2168156835",
+        "title": "N-Queens",
+        "slug": "n-queens",
+        "date": "2026-10-10"
+      },
+      {
+        "id": "2168126639",
+        "title": "Check Knight Tour Configuration",
+        "slug": "check-knight-tour-configuration",
+        "date": "2026-10-10"
+      },
+      {
+        "id": "2154743566",
+        "title": "Contains Duplicate",
+        "slug": "contains-duplicate",
+        "date": "2026-09-27"
+      },
+      {
+        "id": "2144249729",
+        "title": "Find Two Non-overlapping Sub-arrays Each With Target Sum",
+        "slug": "find-two-non-overlapping-sub-arrays-each-with-target-sum",
+        "date": "2026-09-17"
+      },
+      {
+        "id": "2136987761",
+        "title": "Count Commas in Range",
+        "slug": "count-commas-in-range",
+        "date": "2026-09-10"
+      },
+      {
+        "id": "2136985478",
+        "title": "Count Commas in Range II",
+        "slug": "count-commas-in-range-ii",
+        "date": "2026-09-10"
+      },
+      {
+        "id": "2136981211",
+        "title": "Count Nodes Equal to Average of Subtree",
+        "slug": "count-nodes-equal-to-average-of-subtree",
+        "date": "2026-09-10"
+      },
+      {
+        "id": "2133414465",
+        "title": "Find the Minimum and Maximum Number of Nodes Between Critical Points",
+        "slug": "find-the-minimum-and-maximum-number-of-nodes-between-critical-points",
+        "date": "2026-09-07"
+      },
+      {
+        "id": "2130217951",
+        "title": "Smallest Stable Index I",
+        "slug": "smallest-stable-index-i",
+        "date": "2026-09-04"
+      },
+      {
+        "id": "2013325262",
+        "title": "Count the Number of Special Characters I",
+        "slug": "count-the-number-of-special-characters-i",
+        "date": "2026-05-26"
+      },
+      {
+        "id": "2010587196",
+        "title": "Search in Rotated Sorted Array",
+        "slug": "search-in-rotated-sorted-array",
+        "date": "2026-05-23"
+      },
+      {
+        "id": "2010586216",
+        "title": "Check if Array Is Sorted and Rotated",
+        "slug": "check-if-array-is-sorted-and-rotated",
+        "date": "2026-05-23"
+      },
+      {
+        "id": "2007441372",
+        "title": "Minimum Common Value",
+        "slug": "minimum-common-value",
+        "date": "2026-05-19"
+      },
+      {
+        "id": "2007284163",
+        "title": "Jump Game III",
+        "slug": "jump-game-iii",
+        "date": "2026-05-19"
+      },
+      {
+        "id": "2006229797",
+        "title": "Find Minimum in Rotated Sorted Array II",
+        "slug": "find-minimum-in-rotated-sorted-array-ii",
+        "date": "2026-05-18"
+      },
+      {
+        "id": "2003584804",
+        "title": "Find Minimum in Rotated Sorted Array",
+        "slug": "find-minimum-in-rotated-sorted-array",
+        "date": "2026-05-15"
+      },
+      {
+        "id": "2003577152",
+        "title": "Separate the Digits in an Array",
+        "slug": "separate-the-digits-in-an-array",
+        "date": "2026-05-15"
+      },
+      {
+        "id": "2002931560",
+        "title": "Check if Array is Good",
+        "slug": "check-if-array-is-good",
+        "date": "2026-05-14"
+      }
+    ],
+    "history_limit": 20
+  },
+  "patterns": [
+    {
+      "id": "01",
+      "title": "Two pointers: partition and alternating placement",
+      "guide": "01_two_pointers.md",
+      "checkpoints": {
+        "read": false,
+        "dry_run": false,
+        "java": false,
+        "explain": false
+      },
+      "notes": ""
+    },
+    {
+      "id": "02",
+      "title": "Sliding window: minimum window substring",
+      "guide": "02_sliding_window.md",
+      "checkpoints": {
+        "read": false,
+        "dry_run": false,
+        "java": false,
+        "explain": false
+      },
+      "notes": ""
+    },
+    {
+      "id": "03",
+      "title": "Hashing and ordered maps: membership and frequencies",
+      "guide": "03_hashing.md",
+      "checkpoints": {
+        "read": false,
+        "dry_run": false,
+        "java": false,
+        "explain": false
+      },
+      "notes": ""
+    },
+    {
+      "id": "04",
+      "title": "Sorting and divide and conquer",
+      "guide": "04_sorting.md",
+      "checkpoints": {
+        "read": false,
+        "dry_run": false,
+        "java": false,
+        "explain": false
+      },
+      "notes": ""
+    },
+    {
+      "id": "05",
+      "title": "Monotonic stacks: nearest neighbors and histogram",
+      "guide": "05_monotonic_stack.md",
+      "checkpoints": {
+        "read": false,
+        "dry_run": false,
+        "java": false,
+        "explain": false
+      },
+      "notes": ""
+    },
+    {
+      "id": "06",
+      "title": "Heap and greedy: merge cost, Kruskal, fair allocation",
+      "guide": "06_heap_greedy.md",
+      "checkpoints": {
+        "read": false,
+        "dry_run": false,
+        "java": false,
+        "explain": false
+      },
+      "notes": ""
+    },
+    {
+      "id": "07",
+      "title": "Linked lists: CRUD, fast/slow pointers, reversal, merge sort",
+      "guide": "07_linked_lists.md",
+      "checkpoints": {
+        "read": false,
+        "dry_run": false,
+        "java": false,
+        "explain": false
+      },
+      "notes": ""
+    },
+    {
+      "id": "08",
+      "title": "Graph representation, BFS, DFS, and paths",
+      "guide": "08_graph_traversal.md",
+      "checkpoints": {
+        "read": false,
+        "dry_run": false,
+        "java": false,
+        "explain": false
+      },
+      "notes": ""
+    },
+    {
+      "id": "09",
+      "title": "Cycle detection and topological ordering",
+      "guide": "09_cycles_topological.md",
+      "checkpoints": {
+        "read": false,
+        "dry_run": false,
+        "java": false,
+        "explain": false
+      },
+      "notes": ""
+    },
+    {
+      "id": "10",
+      "title": "Grid traversal: flood fill and shortest knight moves",
+      "guide": "10_grid_traversal.md",
+      "checkpoints": {
+        "read": false,
+        "dry_run": false,
+        "java": false,
+        "explain": false
+      },
+      "notes": ""
+    },
+    {
+      "id": "11",
+      "title": "Tree recursion: aggregates, structure, paths, LCA, diameter",
+      "guide": "11_tree_recursion.md",
+      "checkpoints": {
+        "read": false,
+        "dry_run": false,
+        "java": false,
+        "explain": false
+      },
+      "notes": ""
+    },
+    {
+      "id": "12",
+      "title": "DP foundations: linear states and memoization",
+      "guide": "12_dp_foundations.md",
+      "checkpoints": {
+        "read": false,
+        "dry_run": false,
+        "java": false,
+        "explain": false
+      },
+      "notes": ""
+    },
+    {
+      "id": "13",
+      "title": "Knapsack family: 0/1, subsets, coin change, target sum",
+      "guide": "13_knapsack.md",
+      "checkpoints": {
+        "read": false,
+        "dry_run": false,
+        "java": false,
+        "explain": false
+      },
+      "notes": ""
+    },
+    {
+      "id": "14",
+      "title": "Two-sequence DP: LCS reconstruction and SCS",
+      "guide": "14_lcs_scs.md",
+      "checkpoints": {
+        "read": false,
+        "dry_run": false,
+        "java": false,
+        "explain": false
+      },
+      "notes": ""
+    },
+    {
+      "id": "15",
+      "title": "Backtracking: subsets, N-Queens, and knight\u2019s tour",
+      "guide": "15_backtracking.md",
+      "checkpoints": {
+        "read": false,
+        "dry_run": false,
+        "java": false,
+        "explain": false
+      },
+      "notes": ""
+    },
+    {
+      "id": "16",
+      "title": "Constrained counting DP: stable binary arrays",
+      "guide": "16_constrained_counting_dp.md",
+      "checkpoints": {
+        "read": false,
+        "dry_run": false,
+        "java": false,
+        "explain": false
+      },
+      "notes": ""
+    },
+    {
+      "id": "17",
+      "title": "Range patterns: difference array and lazy segment tree",
+      "guide": "17_range_queries.md",
+      "checkpoints": {
+        "read": false,
+        "dry_run": false,
+        "java": false,
+        "explain": false
+      },
+      "notes": ""
+    },
+    {
+      "id": "18",
+      "title": "Trie: dictionary search and shortest root replacement",
+      "guide": "18_trie.md",
+      "checkpoints": {
+        "read": false,
+        "dry_run": false,
+        "java": false,
+        "explain": false
+      },
+      "notes": ""
+    },
+    {
+      "id": "19",
+      "title": "Z algorithm: linear prefix matching",
+      "guide": "19_z_algorithm.md",
+      "checkpoints": {
+        "read": false,
+        "dry_run": false,
+        "java": false,
+        "explain": false
+      },
+      "notes": ""
+    },
+    {
+      "id": "20",
+      "title": "Java foundations: stacks and queues",
+      "guide": "20_stack_queue_basics.md",
+      "checkpoints": {
+        "read": false,
+        "dry_run": false,
+        "java": false,
+        "explain": false
+      },
+      "notes": ""
+    }
+  ],
+  "problems": [
+    {
+      "id": 20,
+      "title": "Valid Parentheses",
+      "slug": "valid-parentheses",
+      "url": "https://leetcode.com/problems/valid-parentheses/",
+      "patterns": [
+        "20"
+      ],
+      "practice_status": "not_recorded",
+      "accepted": null,
+      "last_practiced": null,
+      "review_due": null,
+      "reviews": 0,
+      "notes": "",
+      "premium": false
+    },
+    {
+      "id": 28,
+      "title": "Find the Index of the First Occurrence in a String",
+      "slug": "find-the-index-of-the-first-occurrence-in-a-string",
+      "url": "https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/",
+      "patterns": [
+        "19"
+      ],
+      "practice_status": "not_recorded",
+      "accepted": null,
+      "last_practiced": null,
+      "review_due": null,
+      "reviews": 0,
+      "notes": "",
+      "premium": false
+    },
+    {
+      "id": 51,
+      "title": "N-Queens",
+      "slug": "n-queens",
+      "url": "https://leetcode.com/problems/n-queens/",
+      "patterns": [
+        "15"
+      ],
+      "practice_status": "not_recorded",
+      "accepted": true,
+      "last_practiced": null,
+      "review_due": null,
+      "reviews": 0,
+      "notes": "",
+      "premium": false
+    },
+    {
+      "id": 70,
+      "title": "Climbing Stairs",
+      "slug": "climbing-stairs",
+      "url": "https://leetcode.com/problems/climbing-stairs/",
+      "patterns": [
+        "12"
+      ],
+      "practice_status": "not_recorded",
+      "accepted": null,
+      "last_practiced": null,
+      "review_due": null,
+      "reviews": 0,
+      "notes": "",
+      "premium": false
+    },
+    {
+      "id": 76,
+      "title": "Minimum Window Substring",
+      "slug": "minimum-window-substring",
+      "url": "https://leetcode.com/problems/minimum-window-substring/",
+      "patterns": [
+        "02"
+      ],
+      "practice_status": "not_recorded",
+      "accepted": null,
+      "last_practiced": null,
+      "review_due": null,
+      "reviews": 0,
+      "notes": "",
+      "premium": false
+    },
+    {
+      "id": 84,
+      "title": "Largest Rectangle in Histogram",
+      "slug": "largest-rectangle-in-histogram",
+      "url": "https://leetcode.com/problems/largest-rectangle-in-histogram/",
+      "patterns": [
+        "05"
+      ],
+      "practice_status": "not_recorded",
+      "accepted": null,
+      "last_practiced": null,
+      "review_due": null,
+      "reviews": 0,
+      "notes": "",
+      "premium": false
+    },
+    {
+      "id": 142,
+      "title": "Linked List Cycle II",
+      "slug": "linked-list-cycle-ii",
+      "url": "https://leetcode.com/problems/linked-list-cycle-ii/",
+      "patterns": [
+        "07"
+      ],
+      "practice_status": "not_recorded",
+      "accepted": null,
+      "last_practiced": null,
+      "review_due": null,
+      "reviews": 0,
+      "notes": "",
+      "premium": false
+    },
+    {
+      "id": 148,
+      "title": "Sort List",
+      "slug": "sort-list",
+      "url": "https://leetcode.com/problems/sort-list/",
+      "patterns": [
+        "07"
+      ],
+      "practice_status": "not_recorded",
+      "accepted": null,
+      "last_practiced": null,
+      "review_due": null,
+      "reviews": 0,
+      "notes": "",
+      "premium": false
+    },
+    {
+      "id": 179,
+      "title": "Largest Number",
+      "slug": "largest-number",
+      "url": "https://leetcode.com/problems/largest-number/",
+      "patterns": [
+        "04"
+      ],
+      "practice_status": "not_recorded",
+      "accepted": null,
+      "last_practiced": null,
+      "review_due": null,
+      "reviews": 0,
+      "notes": "",
+      "premium": false
+    },
+    {
+      "id": 206,
+      "title": "Reverse Linked List",
+      "slug": "reverse-linked-list",
+      "url": "https://leetcode.com/problems/reverse-linked-list/",
+      "patterns": [
+        "07"
+      ],
+      "practice_status": "not_recorded",
+      "accepted": null,
+      "last_practiced": null,
+      "review_due": null,
+      "reviews": 0,
+      "notes": "",
+      "premium": false
+    },
+    {
+      "id": 207,
+      "title": "Course Schedule",
+      "slug": "course-schedule",
+      "url": "https://leetcode.com/problems/course-schedule/",
+      "patterns": [
+        "09"
+      ],
+      "practice_status": "not_recorded",
+      "accepted": null,
+      "last_practiced": null,
+      "review_due": null,
+      "reviews": 0,
+      "notes": "",
+      "premium": false
+    },
+    {
+      "id": 208,
+      "title": "Implement Trie (Prefix Tree)",
+      "slug": "implement-trie-prefix-tree",
+      "url": "https://leetcode.com/problems/implement-trie-prefix-tree/",
+      "patterns": [
+        "18"
+      ],
+      "practice_status": "not_recorded",
+      "accepted": null,
+      "last_practiced": null,
+      "review_due": null,
+      "reviews": 0,
+      "notes": "",
+      "premium": false
+    },
+    {
+      "id": 210,
+      "title": "Course Schedule II",
+      "slug": "course-schedule-ii",
+      "url": "https://leetcode.com/problems/course-schedule-ii/",
+      "patterns": [
+        "09"
+      ],
+      "practice_status": "not_recorded",
+      "accepted": null,
+      "last_practiced": null,
+      "review_due": null,
+      "reviews": 0,
+      "notes": "",
+      "premium": false
+    },
+    {
+      "id": 236,
+      "title": "Lowest Common Ancestor of a Binary Tree",
+      "slug": "lowest-common-ancestor-of-a-binary-tree",
+      "url": "https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/",
+      "patterns": [
+        "11"
+      ],
+      "practice_status": "not_recorded",
+      "accepted": null,
+      "last_practiced": null,
+      "review_due": null,
+      "reviews": 0,
+      "notes": "",
+      "premium": false
+    },
+    {
+      "id": 283,
+      "title": "Move Zeroes",
+      "slug": "move-zeroes",
+      "url": "https://leetcode.com/problems/move-zeroes/",
+      "patterns": [
+        "01"
+      ],
+      "practice_status": "not_recorded",
+      "accepted": null,
+      "last_practiced": null,
+      "review_due": null,
+      "reviews": 0,
+      "notes": "",
+      "premium": false
+    },
+    {
+      "id": 307,
+      "title": "Range Sum Query - Mutable",
+      "slug": "range-sum-query-mutable",
+      "url": "https://leetcode.com/problems/range-sum-query-mutable/",
+      "patterns": [
+        "17"
+      ],
+      "practice_status": "not_recorded",
+      "accepted": null,
+      "last_practiced": null,
+      "review_due": null,
+      "reviews": 0,
+      "notes": "",
+      "premium": false
+    },
+    {
+      "id": 322,
+      "title": "Coin Change",
+      "slug": "coin-change",
+      "url": "https://leetcode.com/problems/coin-change/",
+      "patterns": [
+        "13"
+      ],
+      "practice_status": "not_recorded",
+      "accepted": null,
+      "last_practiced": null,
+      "review_due": null,
+      "reviews": 0,
+      "notes": "",
+      "premium": false
+    },
+    {
+      "id": 416,
+      "title": "Partition Equal Subset Sum",
+      "slug": "partition-equal-subset-sum",
+      "url": "https://leetcode.com/problems/partition-equal-subset-sum/",
+      "patterns": [
+        "13"
+      ],
+      "practice_status": "not_recorded",
+      "accepted": null,
+      "last_practiced": null,
+      "review_due": null,
+      "reviews": 0,
+      "notes": "",
+      "premium": false
+    },
+    {
+      "id": 451,
+      "title": "Sort Characters By Frequency",
+      "slug": "sort-characters-by-frequency",
+      "url": "https://leetcode.com/problems/sort-characters-by-frequency/",
+      "patterns": [
+        "03"
+      ],
+      "practice_status": "not_recorded",
+      "accepted": null,
+      "last_practiced": null,
+      "review_due": null,
+      "reviews": 0,
+      "notes": "",
+      "premium": false
+    },
+    {
+      "id": 494,
+      "title": "Target Sum",
+      "slug": "target-sum",
+      "url": "https://leetcode.com/problems/target-sum/",
+      "patterns": [
+        "13"
+      ],
+      "practice_status": "not_recorded",
+      "accepted": null,
+      "last_practiced": null,
+      "review_due": null,
+      "reviews": 0,
+      "notes": "",
+      "premium": false
+    },
+    {
+      "id": 496,
+      "title": "Next Greater Element I",
+      "slug": "next-greater-element-i",
+      "url": "https://leetcode.com/problems/next-greater-element-i/",
+      "patterns": [
+        "05"
+      ],
+      "practice_status": "not_recorded",
+      "accepted": null,
+      "last_practiced": null,
+      "review_due": null,
+      "reviews": 0,
+      "notes": "",
+      "premium": false
+    },
+    {
+      "id": 518,
+      "title": "Coin Change II",
+      "slug": "coin-change-ii",
+      "url": "https://leetcode.com/problems/coin-change-ii/",
+      "patterns": [
+        "13"
+      ],
+      "practice_status": "not_recorded",
+      "accepted": null,
+      "last_practiced": null,
+      "review_due": null,
+      "reviews": 0,
+      "notes": "",
+      "premium": false
+    },
+    {
+      "id": 543,
+      "title": "Diameter of Binary Tree",
+      "slug": "diameter-of-binary-tree",
+      "url": "https://leetcode.com/problems/diameter-of-binary-tree/",
+      "patterns": [
+        "11"
+      ],
+      "practice_status": "not_recorded",
+      "accepted": null,
+      "last_practiced": null,
+      "review_due": null,
+      "reviews": 0,
+      "notes": "",
+      "premium": false
+    },
+    {
+      "id": 648,
+      "title": "Replace Words",
+      "slug": "replace-words",
+      "url": "https://leetcode.com/problems/replace-words/",
+      "patterns": [
+        "18"
+      ],
+      "practice_status": "not_recorded",
+      "accepted": null,
+      "last_practiced": null,
+      "review_due": null,
+      "reviews": 0,
+      "notes": "",
+      "premium": false
+    },
+    {
+      "id": 695,
+      "title": "Max Area of Island",
+      "slug": "max-area-of-island",
+      "url": "https://leetcode.com/problems/max-area-of-island/",
+      "patterns": [
+        "10"
+      ],
+      "practice_status": "not_recorded",
+      "accepted": null,
+      "last_practiced": null,
+      "review_due": null,
+      "reviews": 0,
+      "notes": "",
+      "premium": false
+    },
+    {
+      "id": 912,
+      "title": "Sort an Array",
+      "slug": "sort-an-array",
+      "url": "https://leetcode.com/problems/sort-an-array/",
+      "patterns": [
+        "04"
+      ],
+      "practice_status": "not_recorded",
+      "accepted": null,
+      "last_practiced": null,
+      "review_due": null,
+      "reviews": 0,
+      "notes": "",
+      "premium": false
+    },
+    {
+      "id": 1092,
+      "title": "Shortest Common Supersequence",
+      "slug": "shortest-common-supersequence",
+      "url": "https://leetcode.com/problems/shortest-common-supersequence/",
+      "patterns": [
+        "14"
+      ],
+      "practice_status": "not_recorded",
+      "accepted": null,
+      "last_practiced": null,
+      "review_due": null,
+      "reviews": 0,
+      "notes": "",
+      "premium": false
+    },
+    {
+      "id": 1109,
+      "title": "Corporate Flight Bookings",
+      "slug": "corporate-flight-bookings",
+      "url": "https://leetcode.com/problems/corporate-flight-bookings/",
+      "patterns": [
+        "17"
+      ],
+      "practice_status": "not_recorded",
+      "accepted": null,
+      "last_practiced": null,
+      "review_due": null,
+      "reviews": 0,
+      "notes": "",
+      "premium": false
+    },
+    {
+      "id": 1143,
+      "title": "Longest Common Subsequence",
+      "slug": "longest-common-subsequence",
+      "url": "https://leetcode.com/problems/longest-common-subsequence/",
+      "patterns": [
+        "14"
+      ],
+      "practice_status": "not_recorded",
+      "accepted": null,
+      "last_practiced": null,
+      "review_due": null,
+      "reviews": 0,
+      "notes": "",
+      "premium": false
+    },
+    {
+      "id": 1167,
+      "title": "Minimum Cost to Connect Sticks",
+      "slug": "minimum-cost-to-connect-sticks",
+      "url": "https://leetcode.com/problems/minimum-cost-to-connect-sticks/",
+      "patterns": [
+        "06"
+      ],
+      "practice_status": "not_recorded",
+      "accepted": null,
+      "last_practiced": null,
+      "review_due": null,
+      "reviews": 0,
+      "notes": "",
+      "premium": true
+    },
+    {
+      "id": 1584,
+      "title": "Min Cost to Connect All Points",
+      "slug": "min-cost-to-connect-all-points",
+      "url": "https://leetcode.com/problems/min-cost-to-connect-all-points/",
+      "patterns": [
+        "06"
+      ],
+      "practice_status": "not_recorded",
+      "accepted": null,
+      "last_practiced": null,
+      "review_due": null,
+      "reviews": 0,
+      "notes": "",
+      "premium": false
+    },
+    {
+      "id": 1971,
+      "title": "Find if Path Exists in Graph",
+      "slug": "find-if-path-exists-in-graph",
+      "url": "https://leetcode.com/problems/find-if-path-exists-in-graph/",
+      "patterns": [
+        "08"
+      ],
+      "practice_status": "not_recorded",
+      "accepted": null,
+      "last_practiced": null,
+      "review_due": null,
+      "reviews": 0,
+      "notes": "",
+      "premium": false
+    },
+    {
+      "id": 2149,
+      "title": "Rearrange Array Elements by Sign",
+      "slug": "rearrange-array-elements-by-sign",
+      "url": "https://leetcode.com/problems/rearrange-array-elements-by-sign/",
+      "patterns": [
+        "01"
+      ],
+      "practice_status": "not_recorded",
+      "accepted": null,
+      "last_practiced": null,
+      "review_due": null,
+      "reviews": 0,
+      "notes": "",
+      "premium": false
+    },
+    {
+      "id": 3129,
+      "title": "Find All Possible Stable Binary Arrays I",
+      "slug": "find-all-possible-stable-binary-arrays-i",
+      "url": "https://leetcode.com/problems/find-all-possible-stable-binary-arrays-i/",
+      "patterns": [
+        "16"
+      ],
+      "practice_status": "not_recorded",
+      "accepted": null,
+      "last_practiced": null,
+      "review_due": null,
+      "reviews": 0,
+      "notes": "",
+      "premium": false
+    }
+  ]
+}

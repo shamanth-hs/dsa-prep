@@ -16,3 +16,10 @@ Here is the list of all different codes you are going to find in this folder:
 
 
 <hr>
+
+
+## Browse by DP pattern
+
+- [Linear DP](../dsa-patterns/12_dp_foundations.md)
+- [Knapsack and subset variants](../dsa-patterns/13_knapsack.md)
+- [LCS and SCS](../dsa-patterns/14_lcs_scs.md)
